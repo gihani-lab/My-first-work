@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>My first project- CV </title>
+</head>
+<style>
+    body {
+        margin: 125px;
+        background-image: linear-gradient(white, rgb(249, 208, 214));
+
+    }
+
+    .mainDetails {
+        text-align: center;
+        background-color: rgb(243, 128, 87);
+        background-image: linear-gradient(coral, pink);
+        padding: 20px;
+    }
+
+    h3 {
+        background-color: rgb(240, 128, 128);
+        background-image: linear-gradient(coral, pink);
+    }
+
+    section ul li {
+        margin-bottom: 10px;
+    }
+
+    section div {
+        margin-left: 30px;
+    }
+</style>
+
+<body>
+    <section class="mainDetails">
+
+        <h1>
+            CURRICULUM VITAE
+        </h1>
+        <h2> Gihani Weeresekara</h2>
+        <p>
+            gihaniweereskara@yahoo.com <br>
+            Ulvsättragränd 1 <br> 176 77 Järfälla <br> 0738734737 <br>
+            <a href="https://www.linkedin.com/in/gihani-weeresekara-b298425b/">
+                www.linkedin.com/in/gihani-weeresekara</a>
+        </p>
+    </section>
+
+
+    <section>
+        <hr>
+        <h3>
+            STRENGTHS </h3>
+        <ul>
+            <li>Communication skills</li>
+            <li>Flexibility</li>
+            <li>Confident</li>
+            <li>Detail-oriented</li>
+            <li>Creativity</li>
+            <li>Calm and positive</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>
+            LANGUAGES</h3>
+        <div>
+            <table>
+                <tr>
+                    <td> Sinahlese </td>
+                    <td> Native </td>
+                </tr>
+                <tr>
+                    <td> English </td>
+                    <td> Fluent </td>
+                </tr>
+                <tr>
+                    <td> Swedish </td>
+                    <td> Intermediate </td>
+                </tr>
+            </table>
+        </div>
+
+    </section>
+
+    <section>
+        <h3>
+            WORKING EXPERIENCES</h3>
+        <ul>
+            <li>Mother Tongue Teacher (part-time) at Omniglot Ab
+                <br> Stockholm, Sweden▪ 2 nd of February 2022 to presen
+
+            </li>
+            <li>Substitute Teacher at Stockholm International School
+                <br> Stockholm, Sweden ▪ 22nd of November 2021 to present
+
+            </li>
+            <li>Intern at Internationella Engelska Skolan
+                <br> Järfälla, Sweden ▪ 4th of August 2021 to 5th of August 2021
+
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>
+            HIGHER EDUCATION</h3>
+        <ul>
+            <li> <strong> Master of Arts in Language Science (with a specialization in bilingualism)</strong>
+                <br>Stockholm University, Stockholm, Sweden (2019-2021)
+
+            </li>
+            <li> <strong>Master of Arts in Linguistics </strong>
+                <br>University of Kelaniya, Kelaniya, Sri Lanka (2015-2017)
+
+            </li>
+            <li> <strong> Bachelor of Arts in French, Hindi, and Linguistics </strong>
+                <br>University of Kelaniya, Kelaniya, Sri Lanka (2010-2014)
+
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>
+            REFERENCES</h3>
+        <div>On Request</div>
+    </section>
+
+
+</body>
+
+</html>
